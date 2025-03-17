@@ -11,7 +11,7 @@ import { SharedModule } from '@app/auth/shared/shared.module';
 import { AuthRoutingModule } from '@app/auth/auth-routing.module';
 
 export const firebaseConfig: FirebaseAppConfig = {
-  apiKey: "AIzaSyDh-WDc9BFHjeUAl9ajPHAH0W88gGFs2zA",
+  apiKey: " ",
   authDomain: "activity-tracker-d433a.firebaseapp.com",
   databaseURL: "https://activity-tracker-d433a-default-rtdb.firebaseio.com",
   projectId: "activity-tracker-d433a",
